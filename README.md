@@ -1,4 +1,6 @@
 # README
+## 架构图：
+![image](./OpenIoTHub-architecture.png)
 ##### OpenIoTHub内网穿透和服务暴露工具项目介绍和说明
 ##### 1.支持搜索内网端
 ##### 2.支持配置保存，下一次启动直接加载之前的旧配置
@@ -27,5 +29,3 @@
 ![image](./ssh.png)
 ![image](./vnc.png)
 ![image](./setting.png)
- ## 架构图：
- ![image](./nat-cloud-architecture.png)
